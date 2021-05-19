@@ -18,6 +18,8 @@ Used HasTable to store the total amount spends by category.
 Used file system to store budget and transaction details by month.
 Data binding
 Behaviors
+
+
 KEY FEATURES:
 
 Set budget by Category
